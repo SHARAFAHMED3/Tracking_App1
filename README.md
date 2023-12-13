@@ -37,13 +37,6 @@ The purpose of the Public Bus Tracking System app is to:
    - Centralized platform for authorized personnel to manage bus routes, update service information, and send alerts.
    - Effective monitoring and control of the system.
 
-## Firebase Integration
-
-The Public Bus Tracking System app utilizes Firebase for:
-- **Real-time Database:** Store and retrieve bus location, service information, and user data.
-- **Authentication:** Secure user registration and login functionality.
-- **Cloud Messaging:** Facilitate communication by sending alerts and messages.
-
 ## Problem Statement
 
 The Public Bus Tracking System app addresses the following challenges faced by commuters:
