@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App Introduction</string>
+    <string name="title_activity_bus_current_location">BusCurrentLocation</string>
+    <string-array name="options_array">
+        <item>bus1</item>
+        <item>bus2</item>
+        <item>bus3</item>
+    </string-array>
+</resources>

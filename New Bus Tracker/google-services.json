@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "170008315216",
+    "project_id": "nbt-app-b8a27",
+    "storage_bucket": "nbt-app-b8a27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170008315216:android:e98d3736cafb1d7d8e1855",
+        "android_client_info": {
+          "package_name": "com.example.appintroduction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170008315216-b5pf20u6amqf6qf5tg1gb3hedgrg1q8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4j5j9zA51CHGILJkTntyEJu6K7QNEIUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170008315216-b5pf20u6amqf6qf5tg1gb3hedgrg1q8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
